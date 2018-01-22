@@ -1,0 +1,35 @@
+# example of YAML
+
+name: Salavat
+
+names:
+    - Salavat
+    - Paul
+    - Rhonny
+
+pound_sign: "#"
+
+book:
+  author : Joe Buck
+  publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #no, false, FALSE
+
+string_val : "This is it's quote"
+
+colon_string:  "my lessons"
+
+inslude_new_lines:
+  line line liene
+  line1 line1 line2
+
+ignore_new_lines: >
+  this is
+  just one long
+  string
